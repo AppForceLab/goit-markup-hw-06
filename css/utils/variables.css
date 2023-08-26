@@ -1,0 +1,16 @@
+:root {
+    --text-color: #434455;
+    --dark-color: #2e2f42;
+    --active-color: #4d5ae5;
+    --hover-color: #404bbf;
+    --valid-color: #31d0aa;
+    --helper-text-color: #8e8f99;
+    --accent-color: #e7e9fc;
+    --ligth-background-color: #f4f4fd;
+    --hero-background-color: #2e2f42;
+    --modal-background-color: #fcfcfc;
+    --white-color: #ffffff;
+  
+    --logo-font: 'Raleway', sans-serif;
+    --main-font: 'Roboto', sans-serif;
+  }
